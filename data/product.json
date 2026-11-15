@@ -1,0 +1,6 @@
+{
+  "name": "Thor Hammer",
+  "qty": 1,
+  "addedmsg": "Product added to shopping cart.",
+  "paymsg": "Payment was successful"
+}
